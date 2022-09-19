@@ -11,9 +11,6 @@
       <a href="#built-with">Built With</a>
     </li>
     <li>
-      <a href="#installation">Installation</a>
-    </li> 
-    <li>
       <a href="#roadmap">Roadmap</a>
     </li>
     <li>
@@ -39,15 +36,6 @@ The digital resume provides an employer with information regarding a job candida
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-
-## Installation
-
-You can install the project as follows:
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Jimpad/jimpad.git
-   ```
 
 <!-- ROADMAP -->
 ## Roadmap
