@@ -32,7 +32,7 @@ The digital resume provides an employer with information regarding a job candida
 
 ## Built With
 
-* [![React][React.js]][React-url]
+[![React][React.js]][React-url]
 
 <!-- ROADMAP -->
 ## Roadmap
