@@ -39,7 +39,6 @@ The digital resume provides an employer with information regarding a job candida
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
 
@@ -49,7 +48,6 @@ You can install the project as follows:
    ```sh
    git clone https://github.com/Jimpad/jimpad.git
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
