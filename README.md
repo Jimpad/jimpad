@@ -81,8 +81,6 @@ The digital resume provides an employer with information regarding a job candida
     - [x] GitLab
     - [x] LinkedIn
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -96,15 +94,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingImprovement`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the GNU v3.1 License.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
@@ -112,10 +105,6 @@ Distributed under the GNU v3.1 License.
 Jimpad - [@thejimpad](https://facebook.com/thejimpad) - [@Jimpad](https://github.com/Jimpad) - [@thejimpad](https://gitlab.com/thejimpad) - [@Jimpad](https://www.linkedin.com/in/jimpad/)
 
 Project Link: [https://github.com/Jimpad/jimpad](https://github.com/Jimpad/jimpad)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
