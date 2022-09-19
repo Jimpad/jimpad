@@ -1,7 +1,7 @@
 
 # Jimpad - Digital Resume
 
-https://jimpad.netlify.app/ || https://ibb.co/3m1cvGg
+<img src="https://user-images.githubusercontent.com/29696034/191097902-3718e5a6-d900-49c9-b18d-8ccb2ed96df1.svg" width="200" />
 
 # Powered by **Netlify**
 
