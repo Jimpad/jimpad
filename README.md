@@ -102,7 +102,7 @@ Distributed under the GNU v3.1 License.
 <!-- CONTACT -->
 ## Contact
 
-Jimpad - [@thejimpad](https://facebook.com/thejimpad) - [@Jimpad](https://github.com/Jimpad) - [@thejimpad](https://gitlab.com/thejimpad) - [@Jimpad](https://www.linkedin.com/in/jimpad/)
+Jimpad - Facebook: [@thejimpad](https://facebook.com/thejimpad) - GitHub: [@Jimpad](https://github.com/Jimpad) - GitLab: [@thejimpad](https://gitlab.com/thejimpad) - LinkedIn: [@Jimpad](https://www.linkedin.com/in/jimpad/)
 
 Project Link: [https://github.com/Jimpad/jimpad](https://github.com/Jimpad/jimpad)
 
