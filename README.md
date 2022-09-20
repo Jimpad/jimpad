@@ -30,10 +30,6 @@
 
 The digital resume provides an employer with information regarding a job candidate's professional experience, education and job qualifications and is meant to be read by a computer program instead of by a human being.
 
-## Built With
-
-[![React][React.js]][React-url]
-
 <!-- ROADMAP -->
 ## Roadmap
 
