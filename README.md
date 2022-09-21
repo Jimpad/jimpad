@@ -23,8 +23,8 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a>
 <img src="./dist/assets/media/logos/logo.svg" alt="Logo" width="80" height="80">
@@ -44,7 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 <h1>About The Project</h1>
-
+<p>Project auto-deploys with each push to master branch from Netlify, where the build bot creates a docker image which is consumed to host the site.</p>
 <!-- BUILT WITH -->
 <h1>Built With</h1>
 
@@ -182,14 +182,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+<div align="left">
+
+* [Keen Themes](https://keenthemes.com/)
+
+* [MIT Licence](https://mit-license.org/)
+</div>
 
 <!-- FOOTER -->
 <div align="center">
