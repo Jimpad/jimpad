@@ -25,7 +25,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![MIT License][license-shield]][license-url]
-<br>
+
 <a>
 <img src="./dist/assets/media/logos/logo.svg" alt="Logo" width="80" height="80">
 </a>
