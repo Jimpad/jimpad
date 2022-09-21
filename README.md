@@ -35,7 +35,6 @@
     <br> 
     <a href="https://github.com/Jimpad/jimpad"><strong>Explore the docs »</strong></a>
   </p>
-  <br>
 </div>
 <!-- INTRODUCTORY -->
 <div align="left"> 
