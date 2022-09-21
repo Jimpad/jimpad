@@ -33,42 +33,42 @@ The digital resume provides an employer with information regarding a job candida
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Headline for Hero Landing
-- [x] Add About Describing:
+- [x] Hero Landing Headline
+- [x] About:
   - [x] Software Development
   - [x] Data Science
   - [x] Unit Testing
-- [x] Add Photo Description to Slider for:
+- [x] Slider with Photo Descriptions:
     - [x] Software Engineering
     - [x] Data Science
     - [x] Graphic Engineer
     - [x] Digital Media Specialist
-- [ ] Add Languages and Frameworks for:
+- [ ] Languages and Frameworks:
     - [x] Backend Technologies
     - [x] Frontend Technologies
     - [ ] Data Science Technologies
     - [ ] Unit Testing Technologies
-- [ ] Technology Section
+- [ ] Technology:
     - [x] Set counters for Technologies
     - [ ] Set icons for Technologies
     - [x] Business quote
-- [x] Describe CD/CI
+- [x] CD/CI:
     - [x] Docker Images
     - [x] Netlify Build Runners
     - [x] GitHub CD/CI
-- [x] Solutions Section
+- [x] Solutions:
     - [x] REST APIs
     - [x] Object-Orientated Systems
     - [x] Search Engine Optimization
-- [ ] Project Section
+- [ ] Project:
     - [ ] Latest Projects
     - [ ] Software Development
     - [ ] Data Science
     - [ ] Scripting/Testing 
-- [x] Custom Solution Button
-- [x] Technology Advisor Box
-- [x] Custom Project Box
-- [X] Connect Now Section
+- [x] Custom Solution
+- [x] Technology Advisor
+- [x] Custom Project
+- [X] Connect Now
     - [x] Facebook
     - [x] GitHub
     - [x] GitLab
