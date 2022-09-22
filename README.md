@@ -180,13 +180,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 <div align="left">
 
 * [Keen Themes](https://keenthemes.com/)
 
-* [MIT Licence](https://mit-license.org/)
 </div>
 
 <!-- FOOTER -->
