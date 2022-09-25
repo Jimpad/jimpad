@@ -206,10 +206,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [forks-shield]: https://img.shields.io/github/forks/Jimpad/jimpad.svg?style=for-the-badge
 [forks-url]: https://github.com/Jimpad/jimpad/network/members
 [stars-shield]: https://img.shields.io/github/stars/Jimpad/jimpad.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Jimpad/jimpad/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Jimpad/jimpad.svg?style=for-the-badge
+[issues-url]: https://github.com/Jimpad/jimpad/issues
+[license-shield]: https://img.shields.io/github/license/Jimpad/jimpad.svg?style=for-the-badge
 [license-url]: https://github.com/Jimpad/jimpad/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Jimpad
