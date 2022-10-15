@@ -51,99 +51,6 @@
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
 - [![React][react.js]][react-url]
 
-<!-- ROADMAP -->
-<h1>Roadmap</h1>
-<table>
-  <tr>
-    <th>Feature</th>
-    <th>Delivered</th>
-    <th>In Progress</th>
-  </tr>
-  <tr>
-    <td>Hero Landing Headline</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>About</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Slider with Photo Descriptions</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Languages & Frameworks</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Technology Diagrams</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>CD/CI Explanation</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Solutions</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Projects</td>
-    <td></td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-  </tr>
-  <tr>
-    <td>Custom Solution Button</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Technology Advisor Button</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Custom Project Button</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Connect Now Sources</td>
-    <td>
-    <img src="dist\assets\media\misc\pass.png" width=25 height=25></img>
-    </td>
-    <td></td>
-  </tr>
-</table>
 
 <!-- CONTRIBUTING -->
 <h1>Contributing</h1>
@@ -172,13 +79,13 @@
 
 <!-- LICENSE -->
 
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+# Acknowledgments
 
 <div align="left">
 
