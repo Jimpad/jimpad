@@ -31,9 +31,11 @@
 </a>
 
   <p align="center">
-    Powered by Netlify   
-    <br> 
-    <a href="https://github.com/Jimpad/jimpad"><strong>Explore the docs »</strong></a>
+    Powered by
+    <br>
+    <a href="https://jimpad.netlify.app/"><strong>Netlify</strong></a>
+    <a><strong> & </strong></a>
+    <a href="https://jimpad.github.io/"><strong>GitHub</strong></a>
   </p>
 </div>
 <!-- INTRODUCTORY -->
